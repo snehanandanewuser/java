@@ -12,7 +12,7 @@ public class triangle {
 
         triangle area = new triangle();
          
-        Scanner sc = new Scanner(System.in);
+       Scanner sc = new Scanner(System.in);
         System.out.println("Enter the value of the height");
         int height = sc.nextInt();
 
